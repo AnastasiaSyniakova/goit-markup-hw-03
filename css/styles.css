@@ -182,6 +182,9 @@ img {
 
 /* ========= Features ========= */
 
+.section-features {
+    padding: 120px 0;
+}
 
 .visually-hidden {
     position: absolute;
@@ -219,6 +222,9 @@ img {
 
 /* ========= Team ========= */
 
+.section-team {
+    padding: 120px 0;
+}
 
 .subheading-portfolio {
     font-size: 36px;
@@ -227,6 +233,7 @@ img {
     text-transform: capitalize;
     text-align: center;
     color: #2e2f42;
+    margin-bottom: 72px;
 }
 
 .team-list {
@@ -246,6 +253,10 @@ img {
     align-items: center;
 }
 
+.team-div-container{
+    padding: 32px 0;
+}
+
 .member-name {
     font-weight: 500;
     font-size: 20px;
@@ -253,7 +264,7 @@ img {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
-    padding-bottom: 32px;
+    margin-bottom: 8px
 }
 
 .position-desc {
