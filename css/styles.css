@@ -38,12 +38,12 @@ body {
     margin-right: auto;
 }
 
-.section {
+section {
     padding-top: 120px;
     padding-bottom: 120px;
 }
 
-.img {
+img {
     display: block;
 
 }
@@ -137,7 +137,6 @@ body {
 
 .section {
     padding: 188px 0;
-    background: #2e2f42;
 }
 
 .heading-main {
