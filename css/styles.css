@@ -114,11 +114,6 @@ img {
     font-style: normal;
 }
 
-.page-menu {
-    padding-top: 24px;
-    padding-bottom: 24px;
-}
-
 .contact-link {
     font-size: 16px;
     line-height: 1.5;
@@ -234,7 +229,7 @@ img {
     background: #f4f4fd;
 }
 
-.subheading-portfolio {
+.subheading-team {
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
@@ -286,7 +281,7 @@ img {
 
 /* ========= Portfolio ========= */
 
-.section-portfolio{
+.section-portfolio {
     padding-top: 120px; 
     padding-bottom: 120px;
 }
@@ -298,8 +293,7 @@ img {
     text-transform: capitalize;
     text-align: center;
     color: #2e2f42;
-    padding-top: 120px;
-    padding-bottom: 72px;
+    margin-bottom: 72px;
 }
 
 .portfolio-section {
@@ -324,7 +318,6 @@ img {
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    text-align: center;
     color: #2e2f42;
     margin-bottom: 8px;
 }
@@ -333,7 +326,6 @@ img {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    text-align: center;
 }
 
 /* ========= Portfolio ========= */
@@ -344,10 +336,8 @@ img {
 
 .page-footer {
     background: #2e2f42;
-    width: 1440px;
     padding-top: 100px;
     padding-bottom: 100px;
-    margin-top: 117px;
 }
 
 .logo-footer {
@@ -371,7 +361,6 @@ img {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;
-    padding-top: 8px;
 }
 
 /* ========= Footer styles ========= */
